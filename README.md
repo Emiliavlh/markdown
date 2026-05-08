@@ -1,1 +1,7 @@
-# markdown
+# Markdown Dokumentation
+
+### Liste over fordele
+
+* 
+* 
+* 
