@@ -27,4 +27,9 @@ fruits.forEach(fruits) => {
 </nav>
 ```
 ### Image
+#### Blue frog
 ![Orange background and blue frog.](/img/frog.jpg "Blue frog")
+
+> Forrest Gump
+>
+>> "Life is like a box of chocolate"
