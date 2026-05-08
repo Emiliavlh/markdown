@@ -36,5 +36,5 @@ fruits.forEach(fruits) => {
 >> "Life is like a box of chocolate"
 
 ### Link til Quote
-[Markdown Live Preview](https://www.southernliving.com/travel/forrest-gump-quotes)
+[Forrest Gump Quote](https://www.southernliving.com/travel/forrest-gump-quotes)
 
