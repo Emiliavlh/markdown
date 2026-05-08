@@ -30,6 +30,8 @@ fruits.forEach(fruits) => {
 #### Blue frog
 ![Orange background and blue frog.](/img/frog.jpg "Blue frog")
 
+### Quote
 > Forrest Gump
 >
 >> "Life is like a box of chocolate"
+
