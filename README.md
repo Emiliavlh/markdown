@@ -6,7 +6,7 @@
 * Perfekt til noter og dokmentation.
 * Gør det nemt at organiserer indhold. 
 
-### Kode eksempel:
+### JS kode eksempel:
 
 ```
 const fruits = 
@@ -15,5 +15,16 @@ const fruits =
 fruits.forEach(fruits) => {
     console.log(fruits);
 }
+```
+
+### HTML kode eksempel:
 
 ```
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+</nav>
+```
+### Image
+![Orange background and blue frog.](/img/frog.jpg "Blue frog")
